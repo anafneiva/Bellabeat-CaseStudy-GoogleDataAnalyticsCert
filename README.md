@@ -1,1 +1,0 @@
-# Bellabeat-CaseStudy-GoogleDataAnalyticsCert
